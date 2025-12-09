@@ -1,7 +1,7 @@
 # React Architecture, Folder Structure & Hooks Guide
 
 <div>
-<img  src='../CodeBase/public/banner1.png' width="800px" height="500px"/>
+<img  src='/public/banner1.png' width="800px" height="500px"/>
 
 </div>
 <h3>This folder provides a complete breakdown of **React Architecture Flow**, including both **Client-Side Rendering (CSR)** and **Server-Side Rendering (SSR)** approaches. It also covers best practices for **React Folder Structure** and offers a structured explanation of **React Hooks**, categorized into three levels: **Basic**, **Intermediate**, and **Custom Hooks**.
